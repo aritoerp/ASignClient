@@ -59,19 +59,17 @@
 <body>
   <div class="announcement">
     <h2>Tuyệt vời!</h2>
-    <p>Tool hiện đã có phiên bản mới (v<span id="new-version">1.0.1</span>).</p>
-    <p>Tính năng mới</p>
+    <p>Tool hiện đã có phiên bản mới (v<span id="new-version">1.0.0</span>).</p>
+    <p>Tính năng:</p>
     <ul id="new-features">
       <li>Tạo chữ ký số trên xml</li>
       <li>Tạo chữ ký số trên pdf</li>
-      <li>Sửa lỗi lấy cks trên hệ điều hành 32 bit</li>
+      <li>Ký cks trên hệ điều hành 32/64 bit</li>
     </ul>
     <p>Phiên bản hiện tại của bạn (v<span id="new-version">{{VERSION}}</span>).</p>
     <a href="#" class="update-button">Cập nhật ngay</a>
   </div>
-  <script>
-    const newVersion = "1.2.3";
-    document.getElementById("new-version").textContent = newVersion;
+  <script> 
     const updateButton = document.querySelector(".update-button");
     updateButton.addEventListener("click", function () {
       alert("You will be redirected to the update page!");
