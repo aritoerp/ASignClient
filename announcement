@@ -59,7 +59,7 @@
 <body>
   <div class="announcement">
     <h2>Tuyệt vời!</h2>
-    <p>Tool hiện đã có phiên bản mới (v<span id="new-version">1.0.0</span>).</p>
+    <p>Tool hiện đã có phiên bản mới (v<span id="new-version">1.0.1</span>).</p>
     <p>Tính năng:</p>
     <ul id="new-features">
       <li>Lấy danh sách chứng thư số</li>
