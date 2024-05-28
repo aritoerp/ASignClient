@@ -72,7 +72,9 @@
   </div>
   <script> 
     const updateButton = document.querySelector(".update-button"); 
-
+    updateButton.addEventListener("click", function() {
+        fetch("http://localhost:8150/process-exit") 
+    })
   </script>
 </body>
 
