@@ -1,1 +1,0 @@
-exe=https://github.com/aritoerp/AritoSign/releases/download/1.0.1/AritoSign.exe
