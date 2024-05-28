@@ -71,10 +71,7 @@
     <a href="https://github.com/aritoerp/AritoSign/releases/download/1.0.1/AritoSign.exe" class="update-button">Cập nhật ngay</a>
   </div>
   <script> 
-    const updateButton = document.querySelector(".update-button");
-    updateButton.addEventListener("click", function () {
-      alert("You will be redirected to the update page!");
-    });
+    const updateButton = document.querySelector(".update-button"); 
 
   </script>
 </body>
