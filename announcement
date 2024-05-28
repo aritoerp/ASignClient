@@ -68,7 +68,7 @@
       <li>Hỗ trợ hệ điều hành 32/64 bit</li>
     </ul>
     <p>Phiên bản hiện tại của bạn (v<span id="new-version">{{VERSION}}</span>).</p>
-    <a href="https://github.com/aritoerp/AritoSign/releases/download/1.0.1/AritoSign.exe" class="update-button">Cập nhật ngay</a>
+    <a href="https://github.com/aritoerp/AritoSign/releases/download/1.0.1/AritoSign_Installer.exe" class="update-button">Cập nhật ngay</a>
   </div>
   <script> 
     const updateButton = document.querySelector(".update-button"); 
