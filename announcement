@@ -61,7 +61,7 @@
     <h2>Tuyệt vời!</h2>
     <p>Tool hiện đã có phiên bản mới (v<span id="new-version">{{NEW_VERSION}}</span>).</p> 
     <p>Phiên bản hiện tại của bạn (v<span id="new-version">{{VERSION}}</span>).</p>
-    <a href="https://github.com/aritoerp/AritoSign/releases/latest/download/ASignClient_Installer.exe" class="update-button">Cập nhật ngay</a>
+    <a href="https://github.com/aritoerp/AritoSign/releases/latest/download/ASignClient_Installer.zip" class="update-button">Cập nhật ngay</a>
   </div>
   <script> 
     const updateButton = document.querySelector(".update-button"); 
